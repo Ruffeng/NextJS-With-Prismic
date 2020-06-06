@@ -1,6 +1,6 @@
 ## Learning repo for connecting Next with Prismic
 
-This repo is the result of the tutorial about how to connect NextJs with Prismic.
+This repo is the result of the tutorial about [how to connect NextJs with Prismic](https://dev.to/ruben_suet/set-up-nextjs-9-4-with-prismic-as-headless-cms-27ij).
 
 To run the server
 
